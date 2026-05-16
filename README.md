@@ -1,16 +1,23 @@
-## Hi there 👋
+Text Clean Tools static site
 
-<!--
-**textcleantools/textcleantools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Domain: https://textcleantools.com
+Contact email used in files: textcleantools@gmail.com
 
-Here are some ideas to get you started:
+Upload everything in this folder to GitHub, then connect the repository to Cloudflare Pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Important before applying for AdSense:
+1. Make sure every page is live and accessible.
+2. Submit sitemap.xml in Google Search Console.
+3. Replace the ad placeholders only after AdSense gives you ad code.
+4. Do not place ads where users could confuse them with tool buttons or outputs.
+
+Files included:
+- index.html
+- privacy.html
+- terms.html
+- contact.html
+- robots.txt
+- sitemap.xml
+- assets/styles.css
+- assets/app.js
+- tools/*.html
