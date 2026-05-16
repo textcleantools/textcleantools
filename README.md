@@ -1,23 +1,9 @@
-Text Clean Tools static site
+# Text Clean Tools
 
-Domain: https://textcleantools.com
-Contact email used in files: textcleantools@gmail.com
+Text Clean Tools is a free collection of browser-based text utilities, including email extraction, duplicate line removal, text case conversion, word counting, URL extraction, and more.
 
-Upload everything in this folder to GitHub, then connect the repository to Cloudflare Pages.
+The tools run directly in the browser using client-side JavaScript. Text entered into the tools is not collected, transmitted, stored, sold, or shared by Text Clean Tools.
 
-Important before applying for AdSense:
-1. Make sure every page is live and accessible.
-2. Submit sitemap.xml in Google Search Console.
-3. Replace the ad placeholders only after AdSense gives you ad code.
-4. Do not place ads where users could confuse them with tool buttons or outputs.
+Website: https://textcleantools.com
 
-Files included:
-- index.html
-- privacy.html
-- terms.html
-- contact.html
-- robots.txt
-- sitemap.xml
-- assets/styles.css
-- assets/app.js
-- tools/*.html
+Contact: textcleantools@gmail.com
